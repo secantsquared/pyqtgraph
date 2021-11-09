@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from pyqtgraph.parametertree import Parameter
 
 

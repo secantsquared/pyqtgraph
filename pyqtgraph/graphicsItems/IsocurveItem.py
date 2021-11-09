@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from .. import getConfigOption
 from .GraphicsObject import *
 from .. import functions as fn

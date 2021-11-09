@@ -39,4 +39,3 @@ p3.setLabel('left', "Label to test offset")
 
 if __name__ == '__main__':
     pg.exec()
-

@@ -87,4 +87,3 @@ class Ui_Form(object):
         self.showChartBtn.setText(QCoreApplication.translate("Form", u"Flowchart", None))
         self.fileNameLabel.setText("")
     # retranslateUi
-

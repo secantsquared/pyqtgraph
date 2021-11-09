@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Image-based testing borrowed from vispy
 
 """

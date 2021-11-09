@@ -176,4 +176,3 @@ class Ui_Form(object):
         self.label.setText(QtWidgets.QApplication.translate("Form", "Opacity", None, -1))
         self.alphaGroup.setTitle(QtWidgets.QApplication.translate("Form", "Alpha", None, -1))
         self.autoAlphaCheck.setText(QtWidgets.QApplication.translate("Form", "Auto", None, -1))
-

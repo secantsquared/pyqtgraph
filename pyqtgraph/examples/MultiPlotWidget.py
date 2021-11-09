@@ -32,4 +32,3 @@ pw.plot(ma, pen='y')
 
 if __name__ == '__main__':
     pg.exec()
-

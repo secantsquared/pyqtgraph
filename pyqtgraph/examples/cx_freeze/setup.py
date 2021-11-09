@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Build with `python setup.py build_exe`
 from cx_Freeze import setup, Executable
 from pathlib import Path
@@ -44,5 +45,3 @@ setup(name = "cx_freeze plot test",
       description = "cx_freeze plot test",
       options = {"build_exe": build_exe_options},
       executables = [Executable("plotTest.py", base=base)])
-
-

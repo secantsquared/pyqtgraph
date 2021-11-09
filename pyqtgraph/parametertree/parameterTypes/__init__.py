@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from .action import ActionParameter, ActionParameterItem
 from .basetypes import WidgetParameterItem, SimpleParameter, GroupParameter, GroupParameterItem
 from .bool import BoolParameterItem

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 generates 'example_gradient_plot.png'
 """

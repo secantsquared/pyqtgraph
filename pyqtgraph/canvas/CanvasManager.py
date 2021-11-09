@@ -73,4 +73,3 @@ class CanvasCombo(QtGui.QComboBox):
     def setHostName(self, name):
         self.hostName = name
         self.updateCanvasList()
-

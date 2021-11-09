@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import weakref
 import pyqtgraph as pg
 import faulthandler

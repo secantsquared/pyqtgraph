@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from ..Qt import QtGui, QtCore
 from .PlotWidget import PlotWidget
 from .DataFilterWidget import DataFilterParameter

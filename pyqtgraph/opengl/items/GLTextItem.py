@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from OpenGL.GL import *
 import numpy as np
 from ...Qt import QtCore, QtGui

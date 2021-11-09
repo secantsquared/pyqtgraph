@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from .. import mkQApp
 from ..Qt import QtGui
 

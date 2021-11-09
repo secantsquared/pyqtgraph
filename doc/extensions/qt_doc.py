@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Extension for building Qt-like documentation.
 

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Multiprocessing utility library
 (parallelization done the way I like it)

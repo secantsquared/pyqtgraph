@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from ...Qt import QtCore, QT_LIB
 from .list import ListParameter
 

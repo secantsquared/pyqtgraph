@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from OpenGL.GL import *
 from .. GLGraphicsItem import GLGraphicsItem
 from .. MeshData import MeshData

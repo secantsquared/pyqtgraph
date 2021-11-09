@@ -52,4 +52,3 @@ class Ui_Form(object):
         self.scaleLabel.setText(QtWidgets.QApplication.translate("Form", "Scale:", None, -1))
         self.mirrorImageBtn.setText(QtWidgets.QApplication.translate("Form", "Mirror", None, -1))
         self.reflectImageBtn.setText(QtWidgets.QApplication.translate("Form", "Reflect", None, -1))
-

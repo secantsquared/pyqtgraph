@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from ...widgets.ColorButton import ColorButton
 from ... import functions as fn
 from .basetypes import WidgetParameterItem, SimpleParameter

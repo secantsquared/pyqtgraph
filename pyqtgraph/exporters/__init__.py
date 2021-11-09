@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from .Exporter import Exporter
 from .ImageExporter import *
 from .SVGExporter import *
@@ -8,4 +9,3 @@ from .HDF5Exporter import *
 
 def listExporters():
     return Exporter.Exporters[:]
-

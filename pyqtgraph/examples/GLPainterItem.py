@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Demonstrate using QPainter on a subclass of GLGraphicsItem.
 """

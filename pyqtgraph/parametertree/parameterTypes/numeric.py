@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from .basetypes import WidgetParameterItem
 from ...widgets.SpinBox import SpinBox
 

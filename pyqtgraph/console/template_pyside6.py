@@ -154,4 +154,3 @@ class Ui_Form(object):
         self.exceptionInfoLabel.setText(QCoreApplication.translate("Form", u"Stack Trace", None))
         self.label.setText(QCoreApplication.translate("Form", u"Filter (regex):", None))
     # retranslateUi
-

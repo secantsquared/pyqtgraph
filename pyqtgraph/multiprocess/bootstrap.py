@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """For starting up remote processes"""
 import sys, pickle, os
 import importlib

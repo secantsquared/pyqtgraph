@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Demonstrates use of GLGraphItem
 """

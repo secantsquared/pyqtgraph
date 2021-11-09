@@ -188,4 +188,3 @@ def metaArrayWrapper(fn):
         else:
             return fn(self, data, *args, **kargs)
     return newFn
-

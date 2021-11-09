@@ -101,6 +101,3 @@ class ExceptionHandler(object):
 if not (hasattr(sys.excepthook, 'implements') and sys.excepthook.implements('ExceptionHandler')):
     original_excepthook = sys.excepthook
     sys.excepthook = ExceptionHandler()
-
-
-

@@ -66,4 +66,3 @@ class Ui_Form(object):
         self.selDescLabel.setText("")
         self.selNameLabel.setText("")
     # retranslateUi
-

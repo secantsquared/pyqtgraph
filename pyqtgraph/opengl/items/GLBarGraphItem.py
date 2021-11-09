@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from .GLMeshItem import GLMeshItem
 from ..MeshData import MeshData
 import numpy as np

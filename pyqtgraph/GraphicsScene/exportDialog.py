@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from ..Qt import QtCore, QtGui, QtWidgets, QT_LIB
 from .. import exporters as exporters
 from .. import functions as fn

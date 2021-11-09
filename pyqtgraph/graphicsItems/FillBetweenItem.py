@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from ..Qt import QtGui
 from .. import functions as fn
 from .PlotDataItem import PlotDataItem

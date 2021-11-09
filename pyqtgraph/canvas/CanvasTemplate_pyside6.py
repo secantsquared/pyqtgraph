@@ -123,4 +123,3 @@ class Ui_Form(object):
         self.mirrorSelectionBtn.setText(QCoreApplication.translate("Form", u"Mirror Selection", None))
         self.reflectSelectionBtn.setText(QCoreApplication.translate("Form", u"MirrorXY", None))
     # retranslateUi
-

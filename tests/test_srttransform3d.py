@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import pyqtgraph as pg
 from pyqtgraph.Qt import QtGui
 import numpy as np
@@ -35,5 +36,3 @@ def testMatrix():
     assert_array_almost_equal(tr3.getRotation()[1], tr.getRotation()[1])
     assert_array_almost_equal(tr3.getScale(), tr.getScale())
     assert_array_almost_equal(tr3.getTranslation(), tr.getTranslation())
-
-

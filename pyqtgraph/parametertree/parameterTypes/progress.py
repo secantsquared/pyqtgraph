@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from ...Qt import QtWidgets
 from ..Parameter import Parameter
 from .basetypes import WidgetParameterItem

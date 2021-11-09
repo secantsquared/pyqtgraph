@@ -194,4 +194,3 @@ class Ui_Form(object):
         self.normTimeRangeCheck.setText(QCoreApplication.translate("Form", u"Time range", None))
         self.normFrameCheck.setText(QCoreApplication.translate("Form", u"Frame", None))
     # retranslateUi
-

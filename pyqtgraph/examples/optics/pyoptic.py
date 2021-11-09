@@ -555,4 +555,3 @@ class Tracer(QtCore.QObject):
             
     def trace(self):
         trace(self.rays, self.optics)
-

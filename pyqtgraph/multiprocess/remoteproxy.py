@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os, time, sys, traceback, weakref
 import numpy as np
 import threading
@@ -1139,4 +1140,3 @@ class DeferredObjectProxy(ObjectProxy):
         Return a non-deferred ObjectProxy referencing the same object
         """
         return self._parent.__getattr__(self._attributes[-1], _deferGetattr=False)
-

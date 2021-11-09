@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from ..Qt import QtCore, QtGui, QtWidgets
 from ..parametertree import Parameter, ParameterTree
 from ..functions import mkPen

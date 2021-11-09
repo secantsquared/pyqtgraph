@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from .GLViewWidget import GLViewWidget
 
 ## dynamic imports cause too many problems.

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Script for invoking pytest with options to select Qt library
 """

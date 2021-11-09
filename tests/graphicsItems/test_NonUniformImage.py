@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import numpy as np
 import pyqtgraph as pg
 from pyqtgraph.Qt import QtTest

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import warnings
 
 with warnings.catch_warnings():
@@ -49,4 +50,3 @@ def checkLru(lru):
 
     lru.clear()
     assert [] == list(lru.items())
-

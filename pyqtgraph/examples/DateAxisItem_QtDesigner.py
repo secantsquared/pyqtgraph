@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Demonstrates the usage of DateAxisItem in a layout created with Qt Designer.
 

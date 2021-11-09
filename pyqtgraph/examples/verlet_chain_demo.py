@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Mechanical simulation of a chain using verlet integration.
 

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 ## Definitions helpful in frozen environments (eg py2exe)
 import os, sys, zipfile
 

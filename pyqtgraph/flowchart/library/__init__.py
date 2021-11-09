@@ -23,6 +23,3 @@ for mod in [Data, Display, Filters, Operators]:
     for node in nodes:
         LIBRARY.addNodeType(node, [(mod.__name__.split('.')[-1],)])
     
-
-
-

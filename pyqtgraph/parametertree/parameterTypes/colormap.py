@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from .basetypes import WidgetParameterItem, SimpleParameter
 from ...Qt import QtCore
 from ...colormap import ColorMap

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Example distutils setup script for packaging a program with 
 pyqtgraph and py2exe. See the packaging tutorial at

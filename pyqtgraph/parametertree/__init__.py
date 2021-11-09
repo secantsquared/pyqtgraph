@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from .Parameter import Parameter, registerParameterType, registerParameterItemType
 from .ParameterTree import ParameterTree
 from .ParameterItem import ParameterItem

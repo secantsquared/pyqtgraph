@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import warnings
 from collections import OrderedDict
 
@@ -124,4 +125,3 @@ class ListParameter(Parameter):
             reverse[0].append(v)
             reverse[1].append(k)
         return forward, reverse
-

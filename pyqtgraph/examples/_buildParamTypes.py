@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from pyqtgraph.parametertree import Parameter
 from pyqtgraph.parametertree.Parameter import PARAM_TYPES
 from pyqtgraph.parametertree.parameterTypes import GroupParameter

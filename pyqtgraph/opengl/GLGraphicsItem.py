@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from OpenGL.GL import *
 from OpenGL import GL
 from ..Qt import QtCore

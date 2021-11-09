@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import pyqtgraph as pg
 
 def test_legend_item_basics():

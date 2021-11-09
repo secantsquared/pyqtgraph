@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import pytest
 import pyqtgraph as pg
 import pyqtgraph.dockarea as da

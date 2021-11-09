@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import warnings
 from math import hypot
 from collections import OrderedDict

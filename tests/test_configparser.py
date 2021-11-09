@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from pyqtgraph import configfile
 import numpy as np
 

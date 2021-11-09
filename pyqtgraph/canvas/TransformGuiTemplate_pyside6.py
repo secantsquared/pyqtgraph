@@ -74,4 +74,3 @@ class Ui_Form(object):
         self.mirrorImageBtn.setText(QCoreApplication.translate("Form", u"Mirror", None))
         self.reflectImageBtn.setText(QCoreApplication.translate("Form", u"Reflect", None))
     # retranslateUi
-

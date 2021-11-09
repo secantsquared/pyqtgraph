@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from ..ParameterItem import ParameterItem
 from ..Parameter import Parameter
 from ...Qt import QtWidgets, QtCore

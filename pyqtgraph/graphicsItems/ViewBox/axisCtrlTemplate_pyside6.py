@@ -135,4 +135,3 @@ class Ui_Form(object):
 #endif // QT_CONFIG(tooltip)
         self.autoPanCheck.setText(QCoreApplication.translate("Form", u"Auto Pan Only", None))
     # retranslateUi
-

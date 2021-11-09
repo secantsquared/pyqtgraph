@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import pyqtgraph as pg
 import numpy as np
 import time
@@ -110,4 +111,3 @@ class ChainSim(pg.QtCore.QObject):
         self.relaxed.emit()
         
         
-

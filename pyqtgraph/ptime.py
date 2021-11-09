@@ -39,4 +39,3 @@ if sys.platform.startswith('win'):
     time = winTime
 else:
     time = unixTime
-

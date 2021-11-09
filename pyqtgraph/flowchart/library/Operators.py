@@ -102,4 +102,3 @@ class FloorDivideNode(BinOpNode):
     def __init__(self, name):
         BinOpNode.__init__(self, name, '__floordiv__')
         
-

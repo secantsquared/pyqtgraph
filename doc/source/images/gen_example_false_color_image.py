@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 generates 'example_false_color_image.png'
 """

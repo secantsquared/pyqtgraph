@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Display a plot and an image with minimal setup. 
 

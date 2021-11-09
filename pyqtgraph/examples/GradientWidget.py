@@ -47,6 +47,3 @@ l.addWidget(label, 1, 1)
 
 if __name__ == '__main__':
     pg.exec()
-
-
-

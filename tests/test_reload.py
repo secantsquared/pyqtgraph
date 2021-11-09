@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os, sys, shutil, time
 import pyqtgraph as pg
 import pytest
@@ -82,4 +83,3 @@ def test_reload(tmp_module):
     assert cfn2.__self__ is c
 
     pg.functions.disconnect(c.sig, c.fn)
-

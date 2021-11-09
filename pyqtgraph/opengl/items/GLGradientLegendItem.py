@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from ... Qt import QtCore, QtGui
 from ... import functions as fn
 from ... colormap import ColorMap
@@ -80,4 +81,3 @@ class GLGradientLegendItem(GLGraphicsItem):
             ##todo: fonts
             painter.drawText(QtCore.QPointF(x, y), labelText)
         painter.end()
-

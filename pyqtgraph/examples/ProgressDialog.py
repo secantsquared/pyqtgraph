@@ -48,5 +48,3 @@ with pg.ProgressDialog("Doing a multi-stage process..", maximum=5, nested=True, 
         if dlg1.wasCanceled():
             print("Canceled process")
             break
-
-

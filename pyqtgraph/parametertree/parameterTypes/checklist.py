@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from . import BoolParameterItem, SimpleParameter
 from .basetypes import GroupParameterItem, GroupParameter, WidgetParameterItem
 from .list import ListParameter
